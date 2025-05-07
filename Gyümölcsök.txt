@@ -1,6 +1,5 @@
 Alma
-Körte
-Narancs
+NarancsNarancs
 
 Narancs 
 Narancs
