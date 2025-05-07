@@ -1,7 +1,8 @@
-Cékla
-Sárgarépa
-Káposzta
+Cékla Cékla Cékla Cékla
+Sárgarépa Cékla Cékla Cékla
+KáposztaCékla Cékla Cékla
 
-Káposzta
-Sárgarépa
-Cékla
+Káposzta Cékla Cékla Cékla
+Sárgarépa Cékla Cékla Cékla
+Cékla Cékla Cékla Cékla
+
